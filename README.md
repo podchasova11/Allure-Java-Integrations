@@ -1,0 +1,1 @@
+# Allure-Java-Integrations
